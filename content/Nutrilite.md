@@ -32,6 +32,7 @@ Nutrilite（紐崔萊）是 [[Amway]] 旗下最核心的產品品牌，專注於
 - [[Amway]] — Nutrilite 的母公司與品牌所有者
 - [[Amway_2025_Impact_Report]] — 揭示 Nutrilite 在集團策略中的核心地位
 - [[直銷模式轉型]] — Nutrilite 是「品牌帶貨」新模式的核心載體
+- [[品牌時代]] — Nutrilite 從產品功能轉向健康生活方式敘事，是 Brand Age 的個案
 
 ### 上層概念
 - [[Amway]] — Nutrilite 屬於 Amway 的產品品牌體系
