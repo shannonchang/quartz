@@ -1,6 +1,6 @@
 # Wiki 索引
 
-> 最後更新：2026-04-22（新增 AI 生產力循環、Agentic AI、AI 半導體供應鏈節點）
+> 最後更新：2026-04-22（新增納瓦爾式學習節點）
 
 ## 節點列表
 
@@ -27,6 +27,7 @@
 | [[AI生產力循環]] | AI, 半導體, 供應鏈, 台積電, Agentic AI | 2025–2026 年 AI 超級循環框架：Agentic AI 落地→算力需求→供應鏈結構升級→台積電 N3 追加 |
 | [[Agentic_AI]] | AI, Agent, Claude, 推論算力, 企業部署 | Agentic AI 大規模落地趨勢：Claude +340% 滲透率、推論超越訓練、帶動半導體第二波 |
 | [[AI半導體供應鏈]] | 半導體, CoWoS, HBM, 台積電, 地緣風險 | AI 驅動的供應鏈結構升級：HBM3e +55%、CoWoS 90% 集中、N3 首次追加產能 |
+| [[納瓦爾式學習]] | Naval, 學習, Specific Knowledge, 槓桿, 輸出系統 | 以認知為槓桿、內容為資本的行動模型：Specific Knowledge + Code & Media 複利系統 |
 
 ---
 
@@ -41,3 +42,4 @@
 | `raw/brand.txt` | [[品牌時代]]、[[商品化]] | 2026-04-07 |
 | `raw/trust_brand.txt` | [[信任競爭模型]] | 2026-04-07 |
 | `raw/ai-productivity-cycle-report.html` | [[AI生產力循環]]、[[Agentic_AI]]、[[AI半導體供應鏈]] | 2026-04-22 |
+| `raw/納瓦爾式學習.docx` | [[納瓦爾式學習]] | 2026-04-22 |
